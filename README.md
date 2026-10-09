@@ -1,2 +1,2 @@
 # cs1500
-Indiana tech CS1500 projects
+Indiana Tech CS1500 projects
